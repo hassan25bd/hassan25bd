@@ -74,11 +74,6 @@ I'm a passionate **Full-Stack Web Developer** from Bangladesh who loves building
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emam-hassan-abid&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emam-hassan-abid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emam-hassan-abid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41%" />
-</p>
-
 ---
 
 ## 🔥 Featured Projects
@@ -100,28 +95,16 @@ A productivity tool featuring drag-and-drop task organization, team collaboratio
   <a href="https://www.linkedin.com/in/emamhassanabid/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
-  <a href="https://x.com/EHA25bd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="35" width="45" />
-  </a>
-  <a href="https://snapchat.com/add/your-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat" height="35" width="45" />
-  </a>
-  <a href="https://tiktok.com/@your-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="35" width="45" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" />
-  </a>
-</p>
+  
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emam-hassan-abid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <br/>
-  <i>📍 Dhaka, Bangladesh</i>
+  <i>📍 Chittagong, Bangladesh</i>
 </p>
 
 ---
 
-⭐️ From [emam-hassan-abid](https://github.com/emam-hassan-abid)
+⭐️ From [emam-hassan-abid](https://github.com/hassan25bd)
