@@ -67,13 +67,9 @@ I'm a passionate **Full-Stack Web Developer** from Bangladesh who loves building
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emam-hassan-abid&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
+<img src="https://streak-stats.demolab.com?user=hassan25bd&theme=default&hide_border=true" alt="hassan25bd's GitHub Stats" />
 ---
 
 ## 🔥 Featured Projects
