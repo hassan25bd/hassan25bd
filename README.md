@@ -78,10 +78,10 @@ I'm a passionate **Full-Stack Web Developer** from Bangladesh who loves building
 
 ## 🔥 Featured Projects
 
-### 🏨 [Tourism Explorer](https://github.com/emam-hassan-abid/tourism-explorer)
+### 🏨 [Tourism Explorer](https://tourism-website.vercel.app)
 A full-stack tourism website helping travelers discover hidden gems in Bangladesh with user authentication, tour packages, and reviews.
 
-### 🛒 [E-Commerce Platform](https://tourism-website.vercel.app)
+### 🛒 [E-Commerce Platform]
 A modern e-commerce solution with product filtering, cart management, and secure payment integration.
 
 ### 📝 [Task Management App](https://github.com/emam-hassan-abid/task-manager)
