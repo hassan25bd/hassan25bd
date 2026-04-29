@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Web Developer** from Bangladesh who loves building scalable, user-friendly web applications. I enjoy turning complex problems into simple, beautiful solutions and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
+I'm a passionate **A Web Developer** from Bangladesh who loves building scalable, user-friendly web applications. I enjoy turning complex problems into simple, beautiful solutions and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
 - 🔭 I'm currently working on **building scalable web applications**
 - 🌱 I'm exploring **Next.js** and advanced backend architecture
